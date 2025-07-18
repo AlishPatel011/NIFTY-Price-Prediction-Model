@@ -20,7 +20,7 @@ Model’s medium-term forecast using weekly-aggregated OHLC data:
 
 ### 📆 Monthly Forecast View
 Longer-term prediction using monthly OHLC aggregation:
-![Monthly Forecast](images/Monthly Prediction_.png)
+![Monthly Forecast](images/MonthlyPrediction_.png)
 
 ---
 
